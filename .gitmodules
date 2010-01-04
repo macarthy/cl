@@ -7,3 +7,27 @@
 [submodule "vim/.vimbundles/vim-vividchalk"]
 	path = vim/.vimbundles/vim-vividchalk
 	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "vim/.vimbundles/vim-haml"]
+	path = vim/.vimbundles/vim-haml
+	url = git://github.com/tpope/vim-haml.git
+[submodule "vim/.vimbundles/vim-endwise"]
+	path = vim/.vimbundles/vim-endwise
+	url = git://github.com/tpope/vim-endwise.git
+[submodule "vim/.vimbundles/vim-surround"]
+	path = vim/.vimbundles/vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "vim/.vimbundles/vim-unimpaired"]
+	path = vim/.vimbundles/vim-unimpaired
+	url = git://github.com/tpope/vim-unimpaired.git
+[submodule "vim/.vimbundles/vim-abolish"]
+	path = vim/.vimbundles/vim-abolish
+	url = git://github.com/tpope/vim-abolish.git
+[submodule "vim/.vimbundles/vim-repeat"]
+	path = vim/.vimbundles/vim-repeat
+	url = git://github.com/tpope/vim-repeat.git
+[submodule "vim/.vimbundles/nerdtree"]
+	path = vim/.vimbundles/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "vim/.vimbundles/nerdcommenter"]
+	path = vim/.vimbundles/nerdcommenter
+	url = git://github.com/scrooloose/nerdcommenter.git
