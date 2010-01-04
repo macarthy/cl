@@ -1,3 +1,9 @@
 [submodule "vim/.vimbundles/vim-rails"]
 	path = vim/.vimbundles/vim-rails
 	url = git://github.com/tpope/vim-rails.git
+[submodule "vim/.vimbundles/vim-cucumber"]
+	path = vim/.vimbundles/vim-cucumber
+	url = git://github.com/tpope/vim-cucumber.git
+[submodule "vim/.vimbundles/vim-vividchalk"]
+	path = vim/.vimbundles/vim-vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git
